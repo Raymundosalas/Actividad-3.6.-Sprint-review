@@ -1,0 +1,5 @@
+INSERT INTO usuarios(usuario,password)
+VALUES(
+'admin',
+'$2a$10$2iP4nVgM5G4Zq1d5RkP9KuK3F8H7xJ7uQhGQJ9H5a3Y6wQ0dA7jX2'
+);
